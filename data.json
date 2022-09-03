@@ -1,0 +1,34 @@
+{
+    "student": {
+        "details":[
+            {
+                "name":"Sajeev E",
+                "batch":"BCK41",
+                "domain":"MERN Stack",
+                "number":"8547022049",
+                "img":"images/sanju.jpeg"
+            },
+            {
+                "name":"Shinas V.B",
+                "batch":"BCK41",
+                "domain":"MERN Stack",
+                "number":"7907069571",
+                "img":"images/shinas.jpeg"
+            },
+            {
+                "name":"Dheeraj",
+                "batch":"BCK41",
+                "domain":"MERN Stack",
+                "number":"9400263202",
+                "img":"images/deeraj.jpeg"
+            },
+            {
+                "name":"Sreerang",
+                "batch":"BCK41",
+                "domain":"Python",
+                "number":"9654321721",
+                "img":"images/sreerang.jpeg"
+            }
+        ]
+    }
+}
